@@ -1,14 +1,14 @@
 [package]
-name = "debarchive"
-version = "0.2.1"
-description = "Debian archive reader / extractor"
-repository = "https://github.com/pop-os/debarchive"
+name = "debber"
+version = "1.0.0"
+description = "Debian archive reader / extractor: Refreshed"
+repository = "https://github.com/Strawberry-Foundations/debber"
 license = "MIT"
-authors = ["Michael Aaron Murphy <mmstickman@gmail.com>"]
+authors = ["Matteo <me@matteodev.xyz>"]
 readme = "README.md"
 keywords = ["debian", "archive", "apt"]
 categories = ["os::unix-apis"]
-edition = "2018"
+edition = "2021"
 
 [badges]
 maintenance = { status = "passively-maintained" }
